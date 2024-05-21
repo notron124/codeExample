@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/src/**",
+                "C:/work-repos/ПОЛИР/all-models/Libraries/STM32F10x_StdPeriph_Driver/inc/**"
+
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "STM32F10XMD"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-arm",
+            "forcedInclude": [
+               "C:/work-repos/ПОЛИР/all-models/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_adc.h",
+               "C:/work-repos/ПОЛИР/all-models/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dma.h"
+            ]
+        }
+    ],
+    "version": 4
+}
