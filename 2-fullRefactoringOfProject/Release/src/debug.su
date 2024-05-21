@@ -1,0 +1,2 @@
+debug.c:22:14:SendData_USART	16	static
+debug.c:37:14:SendData_IT	16	static

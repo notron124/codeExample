@@ -1,0 +1,9 @@
+modes.c:19:6:ChangeToMainModeType	0	static
+modes.c:29:6:ChangeToSupportModeType	0	static
+modes.c:39:6:ChangeToServiceModeType	0	static
+modes.c:45:6:ShowMode	8	static
+modes.c:63:6:Title	0	static
+modes.c:76:6:Entry	8	static
+modes.c:85:6:HandleMainModes	16	static
+modes.c:168:6:HandleServiceModes	16	static
+modes.c:227:6:HandleSupportModes	0	static

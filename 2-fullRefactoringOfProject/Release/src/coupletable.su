@@ -1,0 +1,3 @@
+coupletable.c:62:6:InitSamplesLookUpTable	8	static
+coupletable.c:69:10:DegreeToSample	0	static
+coupletable.c:78:10:SampleToDegree	16	static

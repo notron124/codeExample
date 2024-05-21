@@ -1,0 +1,8 @@
+main.c:55:6:StartUp	8	static
+main.c:71:6:Handle1KHz	24	static
+main.c:89:6:Handle100Hz	0	static
+main.c:116:6:Handle25Hz	144	static
+main.c:148:6:HandleSecond	0	static
+main.c:164:5:main	8	static
+main.c:203:6:__assert_func	0	static
+main.c:212:6:__assert	0	static

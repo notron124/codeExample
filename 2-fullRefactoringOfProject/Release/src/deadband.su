@@ -1,0 +1,2 @@
+deadband.c:4:16:NewDeadBandFilter	0	static
+deadband.c:13:10:DeadBand	8	static

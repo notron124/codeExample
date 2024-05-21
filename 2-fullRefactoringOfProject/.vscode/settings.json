@@ -1,0 +1,10 @@
+{
+   "files.associations": {
+      "stm32f10x.h": "c",
+      "sensors.h": "c",
+      "timers.h": "c",
+      "keyapi.h": "c",
+      "communication.h": "c",
+      "glob.h": "c"
+   }
+}

@@ -1,0 +1,4 @@
+interface.c:188:6:ShowUsersService	16	static
+interface.c:45:6:ShowTitle	8	static
+interface.c:69:6:ShowEntry	24	static
+interface.c:120:6:ShowPrograms	48	static

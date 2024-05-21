@@ -1,0 +1,4 @@
+sensors.c:5:10:GetAverageValue	8	static
+sensors.c:22:10:CalculateRoomTemperature	0	static
+sensors.c:39:10:CalculateTemperature	16	static
+sensors.c:58:10:CalculatePressure	8	static

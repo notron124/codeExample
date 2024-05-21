@@ -1,0 +1,7 @@
+lcd1602.c:81:6:delay_LCD	0	static
+lcd1602.c:89:6:PutChr_LCD	0	static
+lcd1602.c:110:6:PutClear_LCD	8	static
+lcd1602.c:116:6:InitLCD	16	static
+lcd1602.c:137:6:ReInitLCD	8	static
+lcd1602.c:155:6:PutStr_LCD	16	static
+lcd1602.c:182:6:PutDgt_LCD	32	static

@@ -1,0 +1,12 @@
+init.c:11:6:RCC_Configuration	8	static
+init.c:28:6:GPIO_Configuration	0	static
+init.c:71:6:NVIC_Configuration	16	static
+init.c:89:6:SysTick_Configuration	8	static
+init.c:107:6:SetTotalConversions	0	static
+init.c:122:6:SetConversionSequence	16	static
+init.c:131:6:ADC1_init	8	static
+init.c:176:6:USART1_Configuration	32	static
+init.c:215:6:Set_USBClock	0	static
+init.c:221:6:IWGD_Configuration	8	static
+init.c:241:6:InitAllKeys	56	static
+init.c:269:6:Init	8	static

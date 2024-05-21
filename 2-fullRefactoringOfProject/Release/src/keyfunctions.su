@@ -1,0 +1,16 @@
+keyfunctions.c:99:6:EnterPrograms	0	static
+keyfunctions.c:115:6:SwitchParameter	0	static
+keyfunctions.c:254:6:StartProgram	0	static
+keyfunctions.c:275:6:ToServSelect	0	static
+keyfunctions.c:281:6:PreviousService	0	static
+keyfunctions.c:286:6:NextService	0	static
+keyfunctions.c:291:6:ConfirmChoice	0	static
+keyfunctions.c:107:6:EnterService	0	static
+keyfunctions.c:260:6:ReturnToEntry	0	static
+keyfunctions.c:94:6:StockUp	0	static
+keyfunctions.c:12:6:Dummy	0	static
+keyfunctions.c:89:6:StockDown	0	static
+keyfunctions.c:26:10:DecreaseValue	8	static
+keyfunctions.c:120:6:DecreaseParameter	24	static
+keyfunctions.c:64:10:IncreaseValue	8	static
+keyfunctions.c:187:6:IncreaseParameter	24	static

@@ -1,0 +1,36 @@
+{
+   "configurations": [
+      {
+         "name": "Win32",
+         "includePath": [
+            "C:/Program Files (x86)/Atollic/TrueSTUDIO for STM32 9.3.0/ARMTools/arm-atollic-eabi/include",
+            "C:/Program Files (x86)/Atollic/TrueSTUDIO for STM32 9.3.0/ARMTools/lib/gcc/arm-atollic-eabi/6.3.1/include",
+            "C:/Program Files (x86)/Atollic/TrueSTUDIO for STM32 9.3.0/ARMTools/lib/gcc/arm-atollic-eabi/6.3.1/include-fixed",
+            "${workspaceFolder}/Libraries/CMSIS/Include",
+            "${workspaceFolder}/Libraries/CMSIS/Device/ST/STM32F10x/Include",
+            "${workspaceFolder}/src"
+         ],
+         "defines": [
+            "_DEBUG",
+            "UNICODE",
+            "_UNICODE",
+            "STM32F10X_MD"
+         ],
+         "intelliSenseMode": "windows-gcc-arm",
+         "cppStandard": "gnu++11",
+         "forcedInclude": [
+            "${workspaceFolder}/Libraries/CMSIS/Device/ST/STM32F10x/Include/stm32f10x.h",
+            "${workspaceFolder}/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_usart.h",
+            "${workspaceFolder}/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_flash.h",
+            "${workspaceFolder}/Libraries/STM32F10x_StdPeriph_Driver/inc/misc.h",
+            "${workspaceFolder}/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h",
+            "${workspaceFolder}/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_exti.h",
+            "${workspaceFolder}/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_tim.h",
+            "${workspaceFolder}/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_iwdg.h",
+            "${workspaceFolder}/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_adc.h"
+         ],
+         "compilerPath": "C:\\Program Files (x86)\\Atollic\\TrueSTUDIO for STM32 9.3.0\\ARMTools\\bin\\arm-atollic-eabi-gcc.exe"
+      }
+   ],
+   "version": 4
+}
